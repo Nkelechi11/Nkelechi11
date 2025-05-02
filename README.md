@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **junior software engineer building web applications that solve the basic problems ot today's business brands** with experience in **Javascript and Figma**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **javascript engineer building web applications that solve the basic problems of today's business brands** with experience in **Javascript and Figma**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Front End & Back End Development from ALX**
 - 🔭 Working on: **A mobile website wireframe for a food delivery organization**
 - 🌍 Languages: **English, Twi, HTML, CSS, Javascript, Figma**
 - 📫 How to reach me: **adjavonclement54@gmail.com**
-- ⚡ Fun fact: **I am a teacher and a children development coach in Africa. I empower and educate children about the vast tech and AI world. The goal is to prevent them from being in the situation of falling behind and sticking strictly to the  knowledge of the traditional career opportunities**   
+- ⚡ Fun fact: **I am a teacher and a children development coach in Africa. I empower and educate children about the vast tech and AI world. The goal is to create awareness on the global opportunities of a career is tech, which prevents them from being in the situation of falling behind and sticking strictly to the knowledge of traditional career opportunities**   
 
 ## My Skills 🧠
 
