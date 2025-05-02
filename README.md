@@ -10,7 +10,7 @@ I'm a passionate **junior software engineer building web applications that solve
 - 🔭 Working on: **A mobile website wireframe for a food delivery organization**
 - 🌍 Languages: **English, Twi, HTML, CSS, Javascript, Figma**
 - 📫 How to reach me: **adjavonclement54@gmail.com**
-- ⚡ Fun fact: **I am a teacher and the child development coach. I empower and educate children about the vast tech and AI world. This is to prevent them from falling behind and sticking strictly to the  knowledge of the traditional career opportunities**   
+- ⚡ Fun fact: **I am a teacher and a children development coach in Africa. I empower and educate children about the vast tech and AI world. The goal is to prevent them from being in the situation of falling behind and sticking strictly to the  knowledge of the traditional career opportunities**   
 
 ## My Skills 🧠
 
