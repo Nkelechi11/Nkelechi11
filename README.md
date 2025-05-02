@@ -38,7 +38,7 @@ I'm a passionate **javascript engineer building web applications that solve the 
 
 ## Get in Touch 📬
 
-- **[Youtube]**(www.youtube.com/sirclementdevelops)
+- **[Youtube]**(www.youtube.com/@sirclementdevelops)
 - **[LinkedIn]**(www.linkedin.com/in/clementadjavon)
 - **[X (Twitter)]**(www.x.com/sir_clement23)
 
