@@ -1,6 +1,6 @@
 # Hi there, I'm Adjavon Clement! 👋
 
-![Banner Image]![Twitter Banner](https://github.com/user-attachments/assets/c9174f8f-7d33-4bde-8450-cbaa52715a74)
+![Twitter Banner](https://github.com/user-attachments/assets/c9174f8f-7d33-4bde-8450-cbaa52715a74)
 
 
 ## About Me 🚀
