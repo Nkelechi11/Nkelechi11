@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Building web applications that solve the basic problems ot today's business brands** with experience in **Javaascript and Figma**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **junior software engineer building web applications that solve the basic problems ot today's business brands** with experience in **Javascript and Figma**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Front End & Back End Development from ALX**
 - 🔭 Working on: **A mobile website wireframe for a food delivery organization**
